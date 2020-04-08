@@ -1,2 +1,2 @@
 # JsFundamentos
-Fundamentos e conceitos básicos de Js
+Desenvolvendo fundamentos e conceitos básicos de Js
